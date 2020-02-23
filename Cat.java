@@ -5,7 +5,7 @@ import java.awt.geom.*;
 public class Cat {
 	// drawing constants are private - noone needs to know what we're doing
 	// pick a head dimension
-	private static final int HEAD_DIMENSION = 75;
+	private static final int HEAD_DIMENSION = 125;
 	// eyes will be about 1/4 from top of head and 1/4 from left
 	private static final int EYE_Y = HEAD_DIMENSION/3;
 	private static final int EYE_X = HEAD_DIMENSION/3;
@@ -44,6 +44,6 @@ public class Cat {
 		g2.setColor(Color.black);
 		// Meow text appears below cat head, +10 places below 
 		// so it doesn't overlap the drawing
-		g2.drawString("Fan on", catX, catY+HEAD_DIMENSION+10);	
+		g2.drawString("Big ole fan on", catX, catY+HEAD_DIMENSION+10);	
 	}
 }
