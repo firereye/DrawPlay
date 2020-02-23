@@ -1,0 +1,29 @@
+commit d035ca57b32a809842396d3ccc769c0e138af400
+Author: nelson-h <60081754+nelson-h@users.noreply.github.com>
+Date:   Sat Feb 22 19:02:49 2020 -0700
+
+    Changes to the cat and window size
+
+commit 366479c710041f475ba2f82bf2adcafc1f426bf0
+Author: firereye <fgc2@comcast.net>
+Date:   Fri Feb 21 22:06:43 2020 -0700
+
+    Updated gitignore
+
+commit e71c42e2f5754064862c53e32c9d722ad8ed60a6
+Author: firereye <fgc2@comcast.net>
+Date:   Fri Feb 21 22:05:52 2020 -0700
+
+    Class that creates the drawing of the cat
+
+commit 76561768bfaeb6eef6204738565344989957eaec
+Author: firereye <fgc2@comcast.net>
+Date:   Fri Feb 21 22:02:48 2020 -0700
+
+    Cat class
+
+commit b3ab67b63d775f49051e372b9c287cf8584edc10
+Author: firereye <fgc2@comcast.net>
+Date:   Fri Feb 21 21:20:21 2020 -0700
+
+    Initial commit
